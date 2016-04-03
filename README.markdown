@@ -32,6 +32,8 @@ Our Other Project's :
 
 [Spectre](https://telegram.me/SPECTREB0T)
 
+[Power](https://telegram.me/P_O_W_E_RBOT)
+
 [Elemental](https://telegram.me/ElementalB0T)
 
 By @Arash.Emp
