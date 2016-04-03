@@ -23,7 +23,8 @@ Created By @ArashEmp\
 def send_welcome(message):
     bot.reply_to(message, """\
 Hi there, I am KosGu BOT
-An Multi Purpose Telegram Bot Written In Python By @ArashEmp\
+An Multi Purpose Telegram Bot Written In Python By @ArashEmp
+Licenced Under Gnu General v.3 License!\
 """)
 
 
